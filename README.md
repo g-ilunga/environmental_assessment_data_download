@@ -1,14 +1,5 @@
 # 🗺️ Outil de Téléchargement des Données Environnementales
 
-## 📘 Sommaire  
-1. [Présentation de l’outil](#présentation-de-loutil)  
-   - [Contexte](#contexte)  
-   - [Description de l’outil](#description-de-loutil)  
-   - [Limites et perspectives](#limites-et-perspectives)  
-2. [Développement technique de l’outil](#développement-technique-de-l’outil)  
-
----
-
 ## 🧭 Présentation de l’outil
 
 ### ⚙️ Contexte  
@@ -28,7 +19,7 @@ Au lieu de se rendre sur plusieurs plateformes, **l’outil centralise le télé
 2. Grâce aux **API** (notamment le flux **WFS** de l’IGN Géoservices), la plateforme se connecte aux différentes bases de données.  
 3. Les **données environnementales intersectant la commune** sont téléchargées automatiquement.
 
-#### Données actuellement disponibles :  
+#### Données actuellement prises en compte :  
 - ZNIEFF  
 - Sites Natura 2000  
 - Parcs Naturels Régionaux  
@@ -63,7 +54,7 @@ Au lieu de se rendre sur plusieurs plateformes, **l’outil centralise le télé
 | **download_functions.py**          | Fonctions de téléchargement                    |
 | **xml_builder.py**                 | Construction des requêtes de recherche        |
 | **xml_builder_gpu.py**             | Requêtes pour le Géoportail de l’Urbanisme    |
-| **main.py**                        | Script principal (point d’entrée de l’outil)  |
+| **main.py**                        | Script principal (point d’entrée de l’outil). C'est ce script qui est utilisé pour lancer l'outil  |
 | **requirements.txt**               | Liste des dépendances Python                   |
 
 ---

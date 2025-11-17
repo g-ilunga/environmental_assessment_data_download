@@ -58,7 +58,3 @@ Au lieu de se rendre sur plusieurs plateformes, **l’outil centralise le télé
 | **requirements.txt**               | Liste des dépendances Python                   |
 
 ---
-
-
-# Lancer le script principal
-python main.py

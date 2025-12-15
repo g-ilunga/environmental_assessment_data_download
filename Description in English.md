@@ -5,21 +5,21 @@
 When conducting an environmental assessment, one of the major steps is data acquisition. The data acquisition step usually involves retrieving data from various public platform such as Geoportail, Géoportail de l'urbanisme or Georisques. This step can be time consumming as you need to retrieve data from many platforms especially if you are only concerned about running a quick diagnosis. Luckily, IGN, the French National Geographic Institute which the reference for geographic data in France, has developped a couple of API to allowed experienced users to access public data and realise advanced manipulation not always available in the aformentionned platforms. 
 
 It is from that observation that the idea to optimise to create a tool that will optimise the data acquisition step in environmental assessment procedures. The present tool has two modules:
-⦁	The data download module
-⦁	The rapid environmental assessment tool
+* The data download module
+* The rapid environmental assessment tool
 
 ## Data download module
 
 This module allows to download data that are frequently used during environmental assessment projects. As a result, the expert does not have to browse through various platforms to retrieve data. 
 The tool functions as follow: The user indicates the city where the project is located and the tool will download all the data that exist for that specific city. The downloaded data can be then manipulated in a GIS software like QGIS or ArcGIS.
 To date, the tool allows to download the following data:
-⦁	ZNIEFF
-⦁	Sites Natura 2000
-⦁	Parcs Naturels Régionaux
-⦁	Parcs Naturels Marins
-⦁	Parcs Nationaux
-⦁	Servitudes (sites inscrits/classés, monuments historiques, etc.)
-⦁	PLU et PLUi
+* ZNIEFF
+* Sites Natura 2000
+* Parcs Naturels Régionaux
+* Parcs Naturels Marins
+* Parcs Nationaux
+* Servitudes (sites inscrits/classés, monuments historiques, etc.)
+* PLU et PLUi
 
 
 ## Rapid environmental assessment module

@@ -1,3 +1,11 @@
+# Project Name
+
+Select your language:  
+[![English](https://img.shields.io/badge/-English-blue)](README.md) [![Français](https://img.shields.io/badge/-Français-4B0082)](README.fr.md)
+
+[English version →](README.md) | [Français →](README.fr.md)
+
+
 # 🗺️ Outil de Téléchargement des Données Environnementales
 
 ## 🧭 Présentation de l’outil

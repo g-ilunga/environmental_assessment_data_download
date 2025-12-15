@@ -37,4 +37,4 @@ To date, the tool takes into account the following data:
 
 
 ## Perspectives
-This is an early prototype. Upcoming improvements includes developping a user interface. Only data available through IGN WFS API are currently supported. Additional data will be progressively added
+This is an early prototype. Upcoming improvements includes developping a user interface. Only data available through IGN WFS API are currently supported. Additional data will be progressively added.

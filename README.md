@@ -2,7 +2,7 @@
 
 L'objectif de ce projet est de créer un outil pour optimiser la collected des données lors d'un processus d'évaluation environnementale.
 
-La description complète de l'outil se trouve ici: [Description en Français](README.fr.md)
+La description complète de l'outil se trouve ici: [Description en Français](Description en Français.md)
 
 ---
 
@@ -10,4 +10,4 @@ La description complète de l'outil se trouve ici: [Description en Français](RE
 
 The purpose of this project is to develop a tool to optimise the data acquisition phase during an environmental assessment project.
 
-The full description of the project is available here: [English description](README.en.md)
+The full description of the project is available here: [English description](Description in English.md)

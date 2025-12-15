@@ -1,4 +1,11 @@
-# Project Name
+# Optimiser la colllecte des données dans le cadre  d'une evaluation environnementale
+
+La description complète de l'outil se trouve ici: README.fr.md
+---
+
+# Optimising the acquisition of data during an environmental assessment project
+
+The full description of the project is available here: README.en.md
 
 [English version →](README.en.md) | [Version Française →](README.fr.md)
 

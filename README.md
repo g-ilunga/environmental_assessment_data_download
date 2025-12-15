@@ -2,7 +2,7 @@
 
 L'objectif de ce projet est de créer un outil pour optimiser la collected des données lors d'un processus d'évaluation environnementale.
 
-La description complète de l'outil se trouve ici: [Description en Français]([Description en Français.md](https://github.com/g-ilunga/environmental_assessment_data_download/blob/8ce9ba223fc9ab8c523c25525826f769d260a0a3/README.md)
+La description complète de l'outil se trouve ici: ([Description en Français.md](https://github.com/g-ilunga/environmental_assessment_data_download/blob/8ce9ba223fc9ab8c523c25525826f769d260a0a3/README.md)
 
 ---
 

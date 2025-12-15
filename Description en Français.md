@@ -4,6 +4,7 @@ Dans le cadre d'une evaluation environnementale ou lors de la réalisation d'un 
 
 C'est à la suite de ce constat qu'est né l'idée de développer un outil pour simplifier ce processus de collecte des données afin de dédier plus de temps à l'analyse et à l'évaluation environnementale. Dans cet outil, il y a deux modules:
 ⦁	Le module de téléchargement des données
+
 ⦁	Le module de diagnostic rapide des enjeux:
 Ces deux modules viennent exploiter les API mis en place par l'IGN
 

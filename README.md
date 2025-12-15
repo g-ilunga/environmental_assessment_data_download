@@ -11,5 +11,5 @@ La description complète de l'outil se trouve ici: [Description en Français](De
 
 The purpose of this project is to develop a tool to optimise the data acquisition phase during an environmental assessment project.
 
-The full description of the project is available here: [Description in English](Description%20en%20English.md)
+The full description of the project is available here: [Description in English](Description%20in%20English.md)
 

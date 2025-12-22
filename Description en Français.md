@@ -25,13 +25,13 @@ A ce jour, le module permet de télécharger les données suivantes:
 
 Ce module permet de réaliser un diagnostic rapide des enjeux environnementaux en utilisant aussi les données environnementales les plus utilisées dans les évaluations environnementales.
 Le principe de fonctionnement est le suivant. L'utilisateur importe l’emprise de l'aire d’étude et l'outil retourne la liste des enjeux environnementaux qui concernent l'aire d’étude. A ce jour l’outil permet de déterminer si vous êtes concerné par les périmètres suivants:
-⦁	ZNIEFF
-⦁	Sites Natura 2000
-⦁	Parcs Naturels Régionaux
-⦁	Parcs Naturels Marins
-⦁	Parcs Nationaux
-⦁	Servitudes (sites inscrits/classés, monuments historiques, etc.)
-⦁	L’outil vous permet aussi de déterminer les zones urbaines du PLU/PLUi que votre aire d’étude intercepte. Il ne permet pas encore de déterminer si l'aire d'étude est concernée par d'autres prescriptions comme emplacement réservé, espace boisé classé, alignement d'arbres, etc.
+* ZNIEFF
+* Sites Natura 2000
+* Parcs Naturels Régionaux
+* Parcs Naturels Marins
+* Parcs Nationaux
+* Servitudes (sites inscrits/classés, monuments historiques, etc.)
+* L’outil vous permet aussi de déterminer les zones urbaines du PLU/PLUi que votre aire d’étude intercepte. Il ne permet pas encore de déterminer si l'aire d'étude est concernée par d'autres prescriptions comme emplacement réservé, espace boisé classé, alignement d'arbres, etc.
 
 
 ## Perspectives

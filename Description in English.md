@@ -27,14 +27,14 @@ To date, the tool allows to download the following data:
 This module allows the user to carry out a rapid environmental assessment using the data commonly used for such task. 
 The module works as follow: the user import the area of interest and the tool will identify all the environmental challenges to look out for.
 To date, the tool takes into account the following data:
-⦁	ZNIEFF
-⦁	Sites Natura 2000
-⦁	Parcs Naturels Régionaux
-⦁	Parcs Naturels Marins
-⦁	Parcs Nationaux
-⦁	Servitudes (sites inscrits/classés, monuments historiques, etc.)
-⦁	The tool also allows to identify urban zoning defined in urban planning documents such as PLU/PLUi. It does not allow yet to determine if the project is located within a "emplacement réservé", "espace boisé classé", or intersect an "alignement d'arbres", etc.
+* ZNIEFF
+* Sites Natura 2000
+* Parcs Naturels Régionaux
+* Parcs Naturels Marins
+* Parcs Nationaux
+* Servitudes (sites inscrits/classés, monuments historiques, etc.)
+* The tool also allows to identify urban zoning defined in urban planning documents such as PLU/PLUi. It does not allow yet to determine if the project is located within a "emplacement réservé", "espace boisé classé", or intersect an "alignement d'arbres", etc.
 
 
 ## Perspectives
-This is an early prototype. Upcoming improvements includes developping a user interface. Only data available through IGN WFS API are currently supported. Additional data will be progressively added
+This is an early prototype. Upcoming improvements includes developping a user interface. Only data available through IGN WFS API are currently supported. Additional data will be progressively added.
